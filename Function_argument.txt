@@ -1,0 +1,11 @@
+#### Passing a list as an Argument using python_function program;
+
+def my_function(food):
+
+    for x in food:
+        
+        print (x)
+
+fruits = ["Apple", "Banana", "Cherry", "Orange", "Passion", "Grapes"]
+
+my_function(fruits)
